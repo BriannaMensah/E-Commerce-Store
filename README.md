@@ -1,2 +1,1 @@
-# E-Commerce-Store
-A fully responsive e-commerce web application built with HTML, CSS, and JavaScript. It features product listings, a functional shopping cart, product filtering, sorting options, and a dark mode toggle. Users can add items to the cart, adjust quantities, and view total prices. This project demonstrates dynamic client-side functionality and interaction with DOM elements using JavaScript.
+
